@@ -1,0 +1,14 @@
+.font-face {
+  font-family: "Raleway";
+  src: url("https://practicum-content.s3.us-west-1.amazonaws.com/fonts/Raleway-ExtraBold.ttf");
+}
+
+.body {
+  background: #f6f3eb;
+  max-width: 600px;
+  margin: auto;
+}
+
+.header {
+  padding: 0 32px;
+}
